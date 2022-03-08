@@ -1,0 +1,420 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:57:06] filterscripts = ""  (string)
+[13:57:06] 
+[13:57:06] Server Plugins
+[13:57:06] --------------
+[13:57:06]  Loading plugin: mysql
+[13:57:06]  >> plugin.mysql: R41-4 successfully loaded.
+[13:57:06]   Loaded.
+[13:57:06]  Loading plugin: pawncmd
+[13:57:06] [Pawn.CMD] plugin v3.3.6 loading...
+[13:57:06] [Pawn.CMD] 
+
+    | Pawn.CMD 3.3.6 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 11:55:10
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[13:57:06]   Loaded.
+[13:57:06]  Loaded 2 plugins.
+
+[13:57:06] 
+[13:57:06] Filterscripts
+[13:57:06] ---------------
+[13:57:06]   Loaded 0 filterscripts.
+
+[13:57:06] Number of vehicle models: 0
+[13:57:12] --- Server Shutting Down.
+[13:57:12] plugin.mysql: Unloading plugin...
+[13:57:12] plugin.mysql: Plugin unloaded.
+[13:57:12] [Pawn.CMD] plugin unloaded
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:58:36] filterscripts = ""  (string)
+[13:58:36] 
+[13:58:36] Server Plugins
+[13:58:36] --------------
+[13:58:36]  Loading plugin: mysql
+[13:58:36]  >> plugin.mysql: R41-4 successfully loaded.
+[13:58:36]   Loaded.
+[13:58:36]  Loading plugin: pawncmd
+[13:58:36] [Pawn.CMD] plugin v3.3.6 loading...
+[13:58:36] [Pawn.CMD] 
+
+    | Pawn.CMD 3.3.6 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 11:55:10
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[13:58:36]   Loaded.
+[13:58:36]  Loading plugin: sscanf
+[13:58:36] 
+
+[13:58:36]  ===============================
+
+[13:58:36]       sscanf plugin loaded.     
+
+[13:58:36]          Version:  2.8.3        
+
+[13:58:36]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:58:36]  ===============================
+
+[13:58:36]   Loaded.
+[13:58:36]  Loaded 3 plugins.
+
+[13:58:36] 
+[13:58:36] Filterscripts
+[13:58:36] ---------------
+[13:58:36]   Loaded 0 filterscripts.
+
+[13:58:36] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:06:51] filterscripts = ""  (string)
+[14:06:51] 
+[14:06:51] Server Plugins
+[14:06:51] --------------
+[14:06:51]  Loading plugin: mysql
+[14:06:51]  >> plugin.mysql: R41-4 successfully loaded.
+[14:06:51]   Loaded.
+[14:06:51]  Loading plugin: pawncmd
+[14:06:51] [Pawn.CMD] plugin v3.3.6 loading...
+[14:06:51] [Pawn.CMD] 
+
+    | Pawn.CMD 3.3.6 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 11:55:10
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[14:06:51]   Loaded.
+[14:06:51]  Loading plugin: sscanf
+[14:06:51] 
+
+[14:06:51]  ===============================
+
+[14:06:51]       sscanf plugin loaded.     
+
+[14:06:51]          Version:  2.8.3        
+
+[14:06:51]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:06:51]  ===============================
+
+[14:06:51]   Loaded.
+[14:06:51]  Loaded 3 plugins.
+
+[14:06:51] 
+[14:06:51] Filterscripts
+[14:06:51] ---------------
+[14:06:51]   Loaded 0 filterscripts.
+
+[14:06:51] MySQL connection is successful.
+[14:06:51] Server Berhasil Dimulai
+[14:06:51] Number of vehicle models: 0
+[14:07:00] --- Server Shutting Down.
+[14:07:00] plugin.mysql: Unloading plugin...
+[14:07:00] plugin.mysql: Plugin unloaded.
+[14:07:00] [Pawn.CMD] plugin unloaded
+[14:07:00] 
+
+[14:07:00]  ===============================
+
+[14:07:00]      sscanf plugin unloaded.    
+
+[14:07:00]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:07:29] filterscripts = ""  (string)
+[14:07:29] 
+[14:07:29] Server Plugins
+[14:07:29] --------------
+[14:07:29]  Loading plugin: mysql
+[14:07:29]  >> plugin.mysql: R41-4 successfully loaded.
+[14:07:29]   Loaded.
+[14:07:29]  Loading plugin: pawncmd
+[14:07:29] [Pawn.CMD] plugin v3.3.6 loading...
+[14:07:29] [Pawn.CMD] 
+
+    | Pawn.CMD 3.3.6 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 11:55:10
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[14:07:29]   Loaded.
+[14:07:29]  Loading plugin: sscanf
+[14:07:29] 
+
+[14:07:29]  ===============================
+
+[14:07:29]       sscanf plugin loaded.     
+
+[14:07:29]          Version:  2.8.3        
+
+[14:07:29]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:07:29]  ===============================
+
+[14:07:29]   Loaded.
+[14:07:29]  Loaded 3 plugins.
+
+[14:07:29] 
+[14:07:29] Filterscripts
+[14:07:29] ---------------
+[14:07:29]   Loaded 0 filterscripts.
+
+[14:07:29] [GM]: MySQL connection is successful.
+[14:07:29] [GM]: Server Berhasil Dimulai
+[14:07:29] Number of vehicle models: 0
+[14:07:36] --- Server Shutting Down.
+[14:07:36] plugin.mysql: Unloading plugin...
+[14:07:36] plugin.mysql: Plugin unloaded.
+[14:07:36] [Pawn.CMD] plugin unloaded
+[14:07:36] 
+
+[14:07:36]  ===============================
+
+[14:07:36]      sscanf plugin unloaded.    
+
+[14:07:36]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:23:38] filterscripts = ""  (string)
+[14:23:38] 
+[14:23:38] Server Plugins
+[14:23:38] --------------
+[14:23:38]  Loading plugin: mysql
+[14:23:38]  >> plugin.mysql: R41-4 successfully loaded.
+[14:23:38]   Loaded.
+[14:23:38]  Loading plugin: pawncmd
+[14:23:38] [Pawn.CMD] plugin v3.3.6 loading...
+[14:23:38] [Pawn.CMD] 
+
+    | Pawn.CMD 3.3.6 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 11:55:10
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[14:23:38]   Loaded.
+[14:23:38]  Loading plugin: sscanf
+[14:23:38] 
+
+[14:23:38]  ===============================
+
+[14:23:38]       sscanf plugin loaded.     
+
+[14:23:38]          Version:  2.8.3        
+
+[14:23:38]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:23:38]  ===============================
+
+[14:23:38]   Loaded.
+[14:23:38]  Loaded 3 plugins.
+
+[14:23:38] 
+[14:23:38] Filterscripts
+[14:23:38] ---------------
+[14:23:38]   Loaded 0 filterscripts.
+
+[14:23:38] [GM]: MySQL connection is successful.
+[14:23:39] [GM]: Server Berhasil Dimulai.
+[14:23:39] Number of vehicle models: 0
+[14:26:45] --- Server Shutting Down.
+[14:26:45] plugin.mysql: Unloading plugin...
+[14:26:45] plugin.mysql: Plugin unloaded.
+[14:26:45] [Pawn.CMD] plugin unloaded
+[14:26:45] 
+
+[14:26:45]  ===============================
+
+[14:26:45]      sscanf plugin unloaded.    
+
+[14:26:45]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:53:32] filterscripts = ""  (string)
+[14:53:32] 
+[14:53:32] Server Plugins
+[14:53:32] --------------
+[14:53:32]  Loading plugin: mysql
+[14:53:32]  >> plugin.mysql: R41-4 successfully loaded.
+[14:53:32]   Loaded.
+[14:53:32]  Loading plugin: pawncmd
+[14:53:32] [Pawn.CMD] plugin v3.3.6 loading...
+[14:53:32] [Pawn.CMD] 
+
+    | Pawn.CMD 3.3.6 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 11:55:10
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[14:53:32]   Loaded.
+[14:53:32]  Loading plugin: sscanf
+[14:53:32] 
+
+[14:53:32]  ===============================
+
+[14:53:32]       sscanf plugin loaded.     
+
+[14:53:32]          Version:  2.8.3        
+
+[14:53:32]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:53:32]  ===============================
+
+[14:53:32]   Loaded.
+[14:53:32]  Loaded 3 plugins.
+
+[14:53:32] 
+[14:53:32] Filterscripts
+[14:53:32] ---------------
+[14:53:32]   Loaded 0 filterscripts.
+
+[14:53:32] [GM]: MySQL connection is successful.
+[14:53:32] [GM]: Server Berhasil Dimulai.
+[14:53:32] Number of vehicle models: 0
+[14:54:21] [connection] 36.68.218.148:40443 requests connection cookie.
+[14:54:22] [connection] incoming connection: 36.68.218.148:40443 id: 0
+[14:54:23] [join] Yuda_Ezcopat has joined the server (0:36.68.218.148)
+[14:56:53] [part] Yuda_Ezcopat has left the server (0:0)
+[14:58:19] --- Server Shutting Down.
+[14:58:19] plugin.mysql: Unloading plugin...
+[14:58:19] plugin.mysql: Plugin unloaded.
+[14:58:19] [Pawn.CMD] plugin unloaded
+[14:58:19] 
+
+[14:58:19]  ===============================
+
+[14:58:19]      sscanf plugin unloaded.    
+
+[14:58:19]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:58:23] filterscripts = ""  (string)
+[14:58:23] 
+[14:58:23] Server Plugins
+[14:58:23] --------------
+[14:58:23]  Loading plugin: mysql
+[14:58:23]  >> plugin.mysql: R41-4 successfully loaded.
+[14:58:23]   Loaded.
+[14:58:23]  Loading plugin: pawncmd
+[14:58:23] [Pawn.CMD] plugin v3.3.6 loading...
+[14:58:23] [Pawn.CMD] 
+
+    | Pawn.CMD 3.3.6 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 11:55:10
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[14:58:23]   Loaded.
+[14:58:23]  Loading plugin: sscanf
+[14:58:23] 
+
+[14:58:23]  ===============================
+
+[14:58:23]       sscanf plugin loaded.     
+
+[14:58:23]          Version:  2.8.3        
+
+[14:58:23]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:58:23]  ===============================
+
+[14:58:23]   Loaded.
+[14:58:23]  Loaded 3 plugins.
+
+[14:58:23] 
+[14:58:23] Filterscripts
+[14:58:23] ---------------
+[14:58:23]   Loaded 0 filterscripts.
+
+[14:58:23] [GM]: MySQL connection is successful.
+[14:58:23] [GM]: Server Berhasil Dimulai.
+[14:58:23] Number of vehicle models: 0
+[14:58:40] [connection] 103.149.238.206:41424 requests connection cookie.
+[14:58:41] [connection] incoming connection: 103.149.238.206:41424 id: 0
+[14:58:41] [join] Yuda_Ezcopat has joined the server (0:103.149.238.206)
+[14:59:33] [part] Yuda_Ezcopat has left the server (0:0)
